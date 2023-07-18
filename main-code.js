@@ -1,1 +1,1 @@
-console.log("Hellow World, this is the first version of the master branch");
+console.log("Hellow World, this is the first version of the feature branch");
